@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="name">Vremenska prognoza</string>
+    <string name="location">Lokacija: </string>
+    <string name="show">Prikaži</string>
+    <string name="date">Datum:</string>
+    <string name="temp">Temperatura</string>
+    <string name="sun">Izlazak i zalazak sunca\n</string>
+    <string name="wind">Vetar</string>
+    <string name="add">Dodaj</string>
+    <string name="monday">Ponedeljak</string>
+    <string name="tuesday">Utorak</string>
+    <string name="wednesday">Sreda</string>
+    <string name="thursday">Četvrtak</string>
+    <string name="friday">Petak</string>
+    <string name="saturday">Subota</string>
+    <string name="sunday">Nedelja</string>
+    <string name="error">Greška</string>
+    <string name="value">Jedinica</string>
+    <string name="windStrength">Brzina vetra: </string>
+    <string name="windDirection">Pravac vetra: </string>
+    <string name="humData">Vlažnost: </string>
+    <string name="tempData">Temperatura: </string>
+    <string name="pressData">Pritisak: </string>
+    <string name="sunRise">Izlazak sunca: </string>
+    <string name="sunSet">Zalazak sunca: </string>
+    <string-array name="value_arrays">
+        <item>F</item>
+        <item>°C</item>
+    </string-array>
+    <string name="paris">Paris</string>
+    <string name="london">London</string>
+    <string name="lisabon">Lisabon</string>
+    <string name="add_city">Dodaj grad</string>
+    <string name="toast">Grad je ili već u listi ili niste uneli grad</string>
+    <string name="bar">mbar</string>
+    <string name="percent">%</string>
+    <string name="cels">°C</string>
+    <string name="fahr">F</string>
+    <string name="west">Zapad</string>
+    <string name="east">Istok</string>
+    <string name="north">Sever</string>
+    <string name="south">Jug</string>
+    <string name="nw">Severozapad</string>
+    <string name="sw">Jugozapad</string>
+    <string name="se">Jugoistok</string>
+    <string name="ne">Severoistok</string>
+    <string name="ref">Refresh</string>
+    <string name="lu">Last updated</string>
+    <string name="stats">Statistika</string>
+    <string name="lastweek">Poslednja nedelja:</string>
+    <string name="day">Dan</string>
+    <string name="pressure">Pritisak</string>
+    <string name="hummidity">Vlaznost</string>
+    <string name="mintemp">Minimalna temperatura je:</string>
+    <string name="maxtemp">Maksimalna temperatura je:</string>
+
+
+</resources>
